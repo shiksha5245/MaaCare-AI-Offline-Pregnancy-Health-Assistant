@@ -6,7 +6,7 @@ MaaCare AI is an intelligent, privacy-focused pregnancy assistant that provides 
 
 The project is designed for women in both urban and rural areas where internet connectivity or immediate access to healthcare information may be limited.
 
-
+---
 
 Problem Statement
 
@@ -14,7 +14,7 @@ Pregnant women often struggle to find trustworthy, accessible, and timely pregna
 
 MaaCare AI solves this problem by providing a secure, offline AI assistant that delivers evidence-based pregnancy guidance while keeping personal data on the user's device.
 
-
+---
 
 Features
 
@@ -47,7 +47,7 @@ Example Questions
 - What can harm my baby during pregnancy?
 - Is walking safe during pregnancy?
 
-
+---
 
 Tech Stack
 
@@ -58,6 +58,7 @@ Tech Stack
 - Machine Learning: Transformers
 - Optional Cloud Services: Firebase Authentication, Cloud Storage, Notifications
 
+---
 
 How It Works
 
@@ -68,7 +69,7 @@ How It Works
 5. Emergency symptoms trigger immediate medical advice.
 6. All personal data remains on the user's device.
 
-
+---
 
 Privacy First
 
@@ -77,7 +78,7 @@ Privacy First
 - No unnecessary cloud processing
 - Offline-first architecture
 
-
+---
 
 Future Enhancements
 
@@ -91,15 +92,18 @@ Future Enhancements
 - Offline hospital directory
 - Pregnancy risk assessment
 
-
+---
 
 Disclaimer
 
 MaaCare AI is an educational assistant designed to provide general pregnancy information. It is not a substitute for professional medical advice, diagnosis, or treatment. Users should always consult qualified healthcare professionals for medical decisions. In case of emergencies such as heavy bleeding, severe abdominal pain, seizures, difficulty breathing, or reduced fetal movement, seek immediate medical care.
 
-
+---
 
 Project Vision
 
 Our mission is to make trusted pregnancy guidance accessible to every mother—anytime, anywhere—even without an internet connection. By combining offline AI with a privacy-first approach, MaaCare AI aims to improve maternal awareness, encourage timely healthcare, and support healthier pregnancies around the world.
 
+---
+
+Made with ❤️ to support safer pregnancies through accessible, privacy-focused AI.
